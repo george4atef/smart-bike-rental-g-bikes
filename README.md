@@ -53,7 +53,7 @@ All 27 stories of the final Milestone 1 backlog are covered by at least one enti
 - **Placeholder amounts.** The price per minute, reservation fee, membership thresholds and discounts in the seed data are test values only; the client has not decided them yet.
 
 ## Database
-- DBMS: PostgreSQL <version>
+- DBMS: PostgreSQL 18
 - Database name: smart_bike_rental
 - Scripts are in the `schema/` folder; run them in numeric order.
 
